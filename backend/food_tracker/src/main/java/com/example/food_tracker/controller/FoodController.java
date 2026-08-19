@@ -1,6 +1,6 @@
-package com.example.foodtracker.controller;
+package com.example.food_tracker.controller;
 
-import com.example.foodtracker.model.FoodItem;
+import com.example.food_tracker.model.FoodItem;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.*;

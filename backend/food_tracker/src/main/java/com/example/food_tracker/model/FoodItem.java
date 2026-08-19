@@ -1,4 +1,4 @@
-package com.example.foodtracker.model;
+package com.example.food_tracker.model;
 
 public class FoodItem {
     public long id;
